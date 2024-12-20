@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OriginalCircuit.AltiumSharp", "AltiumSharp\OriginalCircuit.AltiumSharp.csproj", "{56CE96A8-5463-44DA-89C6-7F30C37BC946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryViewer", "LibraryViewer\LibraryViewer.csproj", "{42247288-AFC2-4590-80CA-702468B40CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryViewer", "LibraryViewer\LibraryViewer.csproj", "{42247288-AFC2-4590-80CA-702468B40CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryRender", "LibraryRender\LibraryRender.csproj", "{58B6D912-195E-4329-AC28-5F9043106C78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{42247288-AFC2-4590-80CA-702468B40CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42247288-AFC2-4590-80CA-702468B40CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42247288-AFC2-4590-80CA-702468B40CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B6D912-195E-4329-AC28-5F9043106C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B6D912-195E-4329-AC28-5F9043106C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B6D912-195E-4329-AC28-5F9043106C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B6D912-195E-4329-AC28-5F9043106C78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
